@@ -1,2 +1,2 @@
-# DC-Motor-Drehzahl-berwachungssystem
+# DC-Motor-Drehzahl-Überwachungssystem
 In diesem Projekt war die Hauptaufgabe ist das Erstellen eines Gleichstrom Motor- Drehzahlüberwachungssystems mit einer SPS und HMI unter Verwendung der TIA-Portal-Software.
